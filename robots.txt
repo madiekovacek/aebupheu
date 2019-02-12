@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://tohngaif.we3stewarts.com/sitemap.xml
